@@ -1,3 +1,0 @@
-  data:
-    mongodb:
-      uri: mongodb://admin:secret@localhost:27017/userdb?authSource=admin
